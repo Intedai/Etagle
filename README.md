@@ -1,4 +1,5 @@
-# Etagle
+# ![ETAGLE](https://github.com/Intedai/Etagle/assets/69306633/83c90a6e-ede5-4810-a8ff-c03781abce16)
+
 A new repo because the project is completely different now and the older one didn't have any traffic anyways
 A multithreaded Omegle Spam Bot
 
