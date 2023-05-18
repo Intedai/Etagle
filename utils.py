@@ -41,7 +41,7 @@ def print_logo():
 {Colors.RESET}
   A multithreaded Omegle spam bot that:
   • Uses custom and random user-agents
-  • Clear and well made config file
+  • Has a clear and well made config file
   • Has Firefox and Chrome support
   • Can send messages in a sequence
   • Can save logs{Colors.BLUE}
