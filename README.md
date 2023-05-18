@@ -1,4 +1,4 @@
-# OmeSpammer
+# Etagle
 A new repo because the project is completely different now and the older one didn't have any traffic anyways
 A multithreaded Omegle Spam Bot
 
