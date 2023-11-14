@@ -1,12 +1,25 @@
 # ![ETAGLE](https://github.com/Intedai/Etagle/assets/69306633/83c90a6e-ede5-4810-a8ff-c03781abce16)
 
-A new repo because the project is completely different now and the older one didn't have any traffic anyways
-A multithreaded Omegle Spam Bot
+A multithreaded Omegle Spam Bot that can spam multiple people in the same time using Selenium
 
-## Installation
+## RIP Omegle
+Omegle is now closed forever, therefore this repository will now be archived  
+<img src="https://github.com/Intedai/Etagle/assets/69306633/4afb24ac-60f1-464c-abb3-ed83692122fb" alt="drawing" width="300"/>  
+  
+  ## Installation
+```sh
 pip install selenium
+```
+for Chrome usage install the Chrome Webdriver and put the path in `config.ini`
 
-if you use Chrome install the chrome webdriver and put the path in the config file
+## Usage
+after setting the config file run
+```sh
+python Etagle.py
+```
+
+## License
+Distributed under the MIT license. See `LICENSE` for more information.
 
 ## Features
 • Uses multithreading to spam more than once at a time  
@@ -14,7 +27,4 @@ if you use Chrome install the chrome webdriver and put the path in the config fi
 • Clear and well made config file  
 • Has Firefox and Chrome support  
 • Can send messages in a sequence  
-• Can save logs
 
-## Future
-Better README file and logging
