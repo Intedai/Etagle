@@ -10,6 +10,9 @@ A multithreaded Omegle Spam Bot that can spam multiple people in the same time u
 • Has Firefox and Chrome support  
 • Can send messages in a sequence  
 
+# Demo
+https://github.com/user-attachments/assets/7a1d552d-f3da-41c6-bac7-8c7b6e444dec
+
   ## Installation
 ```sh
 pip install selenium
